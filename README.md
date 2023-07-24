@@ -1,3 +1,2 @@
-## Исходный код для проекта урока 12
-
-Склонируйте репозиторий себе, затем выполните задание.
+## Application  for work with posts. 
+You can search for posts in the feed, as well as add new ones.
